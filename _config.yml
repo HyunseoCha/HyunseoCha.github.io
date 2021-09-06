@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "Basics of C"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "차현서"
-description              : "C 언어의 개념을 익혀 탄탄한 기초를 쌓기 위한 사이트"
+description              : ""
 url                      : "https://HyunseoCha.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HyunseoCha/HyunseoCha.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "차현서"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "C언어를 배우는 학생"
+  bio              : ""
   location         : "대한민국, 서울"
   email            : "21-2063@hafs.hs.kr"
   links:
